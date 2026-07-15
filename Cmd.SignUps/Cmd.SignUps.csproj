@@ -29,8 +29,8 @@
 	<ItemGroup>
 		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.23.0" />
 		<PackageReference Include="NanoCore" Version="10.0.0-rc4" />
-		<PackageReference Include="Svc.Accounts.Models" Version="1.0.94.1" />
-		<PackageReference Include="Svc.Emailing.Models" Version="1.0.8.1" />
+		<PackageReference Include="Svc.Accounts.Models" Version="1.0.96.1" />
+		<PackageReference Include="Svc.Emailing.Models" Version="1.0.9.1" />
 	</ItemGroup>
 
 </Project>
